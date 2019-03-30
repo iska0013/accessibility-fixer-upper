@@ -12,9 +12,6 @@ html {
 
 a {
   color: #568c36;
-
-
-
 }
 
 a:hover {
@@ -39,7 +36,7 @@ a:hover {
 
 .nav a {
   color: #fff;
- text-decoration: none;
+  text-decoration: none;
 }
 
 .nav a:hover,
